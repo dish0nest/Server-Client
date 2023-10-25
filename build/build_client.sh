@@ -1,2 +1,2 @@
-cmake $(pwd)/../client_sync
+cmake $(pwd)/../client
 make
