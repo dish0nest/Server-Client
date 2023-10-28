@@ -1,2 +1,2 @@
-cmake $(pwd)
+cmake ./..
 make
