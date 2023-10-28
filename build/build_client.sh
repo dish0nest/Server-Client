@@ -1,2 +1,2 @@
-cmake $(pwd)/../client
+cmake ./../client
 make
