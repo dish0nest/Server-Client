@@ -1,2 +1,1 @@
-cmake ./../client
-make
+echo $(pwd)
