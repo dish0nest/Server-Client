@@ -1,2 +1,2 @@
-cmake $(pwd)/../server
+cmake ./../server
 make
